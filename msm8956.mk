@@ -256,7 +256,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.sf.lcd_density=430
+    ro.sf.lcd_density=480
 
 # miracast props
 PRODUCT_PROPERTY_OVERRIDES += \
