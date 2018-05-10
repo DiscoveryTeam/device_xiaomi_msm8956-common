@@ -276,6 +276,11 @@ vendor/bin/ipacm-diag
 # Keystore
 vendor/lib64/hw/keystore.msm8952.so
 
+# Listen
+vendor/lib/hw/sound_trigger.primary.msm8952.so
+vendor/lib/libadpcmdec.so
+vendor/lib/libsmwrapper.so
+
 # Media
 lib/libOmxVpp.so
 lib/libmmosal.so
