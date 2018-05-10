@@ -563,6 +563,10 @@ vendor/bin/time_daemon
 -vendor/lib/libtime_genoff.so
 -vendor/lib64/libtime_genoff.so
 
+# Vulkan (from Suzu)
+vendor/lib/hw/vulkan.msm8952.so|e8af3bc7340e6eab2aaa9a21dd3a749ee8a452be
+vendor/lib64/hw/vulkan.msm8952.so|68d1968e57e98bf77ef2a5030d7880757514d358
+
 # Widevine
 vendor/bin/hw/android.hardware.drm@1.0-service.widevine
 vendor/etc/init/android.hardware.drm@1.0-service.widevine.rc
